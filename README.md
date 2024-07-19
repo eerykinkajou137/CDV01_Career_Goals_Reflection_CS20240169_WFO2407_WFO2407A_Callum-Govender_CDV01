@@ -16,18 +16,19 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Callum Govender
+- **Date:** 19 July 2024
+- **Current Role/Position:** student
+- **Field of Interest:** software development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
+   -
     
     - List your current skills and areas of expertise.
     - Identify skills you need to develop or improve.
-2. **Interests and Values**:
+3. **Interests and Values**:
     
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
@@ -46,10 +47,15 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
+   For one learning Javascript and some back-end languages for database structure. This will give me a solid footing in web development.
+   Second gain a valuable understanding of Jyson and Swift.
+   Third Learn Python and a middle-tier language like C and C++.
+   This is  for the sake of diversity and simply having more than option of platforms that I can be useful in
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
     - Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
+3. **Long-term Goals** (3-5 years and beyond):
+   I want a comfortable job where I can gain exposure to all kinds of situations to grow and thus become more credited as a developer. 
     
     - Outline your long-term career aspirations.
     - Describe how these align with your interests and skills.
